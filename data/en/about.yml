@@ -1,16 +1,16 @@
 ############################# About ###################################
 about:
-  enable : true
-  title : About Us
-  about_Item :
-  - icon : ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
-    title : We're Creative
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  enable: true
+  title: About Us
+  about_Item:
+    - icon: ti-ruler-pencil # themify icon pack : https://themify.me/themify-icons
+      title: 最新の開発技術
+      content: 我々はgolangやtypescript、kubernetesといったモダンな技術を採用して開発を行なっています。お客様のサービスを技術的にもアピールすることが可能となります。
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : We're Professional
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    - icon: ti-cup # themify icon pack : https://themify.me/themify-icons
+      title: 高い技術力
+      content: 我々はweb製作会社ではなく、webシステム開発会社です。開発難易度が高い領域(決済、音声・動画配信、リアルタイム性の必要な機能、機械学習)を得意としています。
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're Genius
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    - icon: ti-thought # themify icon pack : https://themify.me/themify-icons
+      title: 対応力
+      content: 我々のチームには、PM・エンジニア・デザイナーの領域をそれぞれ専門としている人材が在籍しております。お客様の必要なリソースを提供することが可能です。
